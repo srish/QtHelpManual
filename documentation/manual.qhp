@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>com.trolltech.examples.simpletextviewer</namespace>
+    <virtualFolder>doc</virtualFolder>
+    <filterSection>
+        <toc>
+            <section title="Simple Text Viewer" ref="index.html">
+                <section title="Find File" ref="./findfile.html">
+                    <section title="File Dialog" ref="./filedialog.html"></section>
+                    <section title="Wildcard Matching" ref="./wildcardmatching.html"></section>
+                    <section title="Browse" ref="./browse.html"></section>
+                    </section>
+                <section title="Open File" ref="./openfile.html"></section>
+                </section>
+            </toc>
+        <files>
+            <file>browse.html</file>
+            <file>filedialog.html</file>
+            <file>findfile.html</file>
+            <file>index.html</file>
+            <file>intro.html</file>
+            <file>openfile.html</file>
+            <file>wildcardmatching.html</file>
+            <file>images/browse.png</file>
+            <file>images/fadedfilemenu.png</file>
+            <file>images/filedialog.png</file>
+            <file>images/handbook.png</file>
+            <file>images/mainwindow.png</file>
+            <file>images/open.png</file>
+            <file>images/wildcard.png</file>
+            </files>
+        </filterSection>
+    </QtHelpProject>
